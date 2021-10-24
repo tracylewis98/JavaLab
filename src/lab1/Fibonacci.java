@@ -22,7 +22,7 @@ public class Fibonacci {
 
 	public static void main(String args[]) {
 		int num = 10;
-		Fibonacci(num);
+		Fibonacci(num);// method call
 		System.out.println();
 		System.out.println("Using recursion :- ");
 		for (int i = 0; i < num; i++) {
